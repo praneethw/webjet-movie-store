@@ -10,11 +10,19 @@ This repository provides a solution for the WebJet Movie Store.
 ## Run Application
 
 ```sh
-# Inatall NPM
+# Step 1: Clone Repo
+git clone https://github.com/praneethw/webjet-movie-store.git
+
+# Step 2: Navigate to clone location (e.g. C:\projects\webjet-movie-store)
+
+# Step 3: Inatall NPM
 npm i -g npx
 
-# Install NX
+# Step 4: Install NX
 npm add -g nx@latest
+
+# Step 5: run npm install
+npm install
 
 # Run application
 nx run-many -t serve -p ui api
