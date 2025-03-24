@@ -25,7 +25,7 @@ npm add -g nx@latest
 # Step 5: run npm install
 npm install
 
-# Run application
+# Step 6: Run application
 nx run-many -t serve -p ui api
 ```
 
