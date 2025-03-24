@@ -1,0 +1,6 @@
+@MovieStore.Api_HostAddress = http://localhost:5084
+
+GET {{MovieStore.Api_HostAddress}}/movies/
+Accept: application/json
+
+###
