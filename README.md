@@ -42,4 +42,3 @@ The design follows a provider aggregator pattern, where a synchronisation servic
 ## Improvments and Next steps
 
 - Some providers, provide broken poster links this can be fixed by requerying a service such as the `https://www.themoviedb.org/` and fix broken links
-- 
