@@ -14,6 +14,7 @@ This repository provides a solution for the WebJet Movie Store.
 git clone https://github.com/praneethw/webjet-movie-store.git
 
 # Step 2: Navigate to clone location (e.g. C:\projects\webjet-movie-store)
+cd C:\projects\webjet-movie-store
 
 # Step 3: Inatall NPM
 npm i -g npx
